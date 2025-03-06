@@ -1,13 +1,11 @@
 import { useState } from "react"
 
-function IndexOptions() {
+function IndexPopup() {
   const [data, setData] = useState("")
 
   return (
     <div
       style={{
-        display: "flex",
-        flexDirection: "column",
         padding: 16
       }}>
       <h2>
@@ -25,4 +23,4 @@ function IndexOptions() {
   )
 }
 
-export default IndexOptions
+export default IndexPopup

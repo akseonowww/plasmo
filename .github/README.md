@@ -1,1 +1,0 @@
-../cli/plasmo/README.md

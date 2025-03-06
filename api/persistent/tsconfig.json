@@ -1,4 +1,0 @@
-{
-  "extends": "@plasmo/config/ts/utils",
-  "include": ["src/**/*.ts"]
-}

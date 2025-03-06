@@ -19,13 +19,8 @@ export default {
     "",
     "^@plasmohq/(.*)$",
     "",
-    "^@plasmo-static-common/(.*)$",
-    "",
     "^~(.*)$",
     "",
-    "^[./]",
-    "",
-    "__plasmo_import_module__",
-    "__plasmo_mount_content_script__"
+    "^[./]"
   ]
 }
